@@ -8,13 +8,19 @@ This application assists people, and more importantly employees of a company to 
 
 N/A as it runs in the browser.
 
+## Preview
+
+![The Password Generator application displays a red button to "Generate Password" as well as a box to display your generated password.](./Assets/Images/03-javascript-homework-demo.png)
+
 ## Usage
 
-Placeholder Section until program is further along and usage steps are more clear.
+After Navigating to the site at 
+https://chriseligirard.github.io/passwordGeneratorTool/   
+You will direct your mouse cursor to the "Generate Password button" at around center screen. You will then be prompted for your desired password character length, after sumbitting you will then be prompted yes or no for Capital letters to be included in your password followed by a prompt for Numbers to be included and finally special characters. Once this has all been answered the inputs from the user are no longer necessary as the remaining work is done behind the scenes and you are presented your brand new password!
 
 ## Credits
 
-N/A
+edX Boot Camps LLC. for the starter code in which I had to add the Java Script code to in order for the application to function.
 
 ## License
 
