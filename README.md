@@ -16,7 +16,7 @@ N/A as it runs in the browser.
 
 After Navigating to the site at 
 https://chriseligirard.github.io/passwordGeneratorTool/   
-You will direct your mouse cursor to the "Generate Password button" at around center screen. You will then be prompted for your desired password character length, after sumbitting you will then be prompted yes or no for Capital letters to be included in your password followed by a prompt for Numbers to be included and finally special characters. Once this has all been answered the inputs from the user are no longer necessary as the remaining work is done behind the scenes and you are presented your brand new password!
+You will direct your mouse cursor to the "Generate Password button" at around center screen. You will then be prompted for your desired password character length, after sumbitting you will then be prompted yes or no for Capital letters to be included in your password followed by a prompt for Numbers to be included and finally special characters. Once these prompts have all been answered the user is no longer required to input anything as the remaining work is done behind the scenes and you are presented with your brand new password!
 
 ## Credits
 
